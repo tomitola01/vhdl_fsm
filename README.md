@@ -7,5 +7,5 @@ The output (z_out) of the FSM will remain at 0 unless one of the numbers are det
 1. If A is larger, z_out will remain at 2
 2. If B is larger, z_out will remain at 1
 
-In the **Sequential Comparator FSM**, the FSM VHDL source and testbench are included.<br>
+In the **Sequential Comparator FSM** directory, the FSM VHDL source and testbench are included.<br>
 Testbench compares the multi-bit numbers A = 011001111010 and B = 010001111010.
